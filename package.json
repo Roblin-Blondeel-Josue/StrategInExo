@@ -18,5 +18,12 @@
   "devDependencies": {
     "concurrently": "^7.0.0",
     "husky": "^7.0.0"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@fontsource/merriweather": "^4.5.14",
+    "@mui/material": "^5.10.17",
+    "argon2": "^0.30.2"
   }
 }
